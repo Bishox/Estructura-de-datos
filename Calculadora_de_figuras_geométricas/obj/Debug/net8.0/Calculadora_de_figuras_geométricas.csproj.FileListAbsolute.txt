@@ -1,0 +1,14 @@
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\bin\Debug\net8.0\Calculadora_de_figuras_geométricas.exe
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\bin\Debug\net8.0\Calculadora_de_figuras_geométricas.deps.json
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\bin\Debug\net8.0\Calculadora_de_figuras_geométricas.runtimeconfig.json
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\bin\Debug\net8.0\Calculadora_de_figuras_geométricas.dll
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\bin\Debug\net8.0\Calculadora_de_figuras_geométricas.pdb
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\obj\Debug\net8.0\Calculadora_de_figuras_geométricas.GeneratedMSBuildEditorConfig.editorconfig
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\obj\Debug\net8.0\Calculadora_de_figuras_geométricas.AssemblyInfoInputs.cache
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\obj\Debug\net8.0\Calculadora_de_figuras_geométricas.AssemblyInfo.cs
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\obj\Debug\net8.0\Calculadora_de_figuras_geométricas.csproj.CoreCompileInputs.cache
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\obj\Debug\net8.0\Calculadora_de_figuras_geométricas.dll
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\obj\Debug\net8.0\refint\Calculadora_de_figuras_geométricas.dll
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\obj\Debug\net8.0\Calculadora_de_figuras_geométricas.pdb
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\obj\Debug\net8.0\Calculadora_de_figuras_geométricas.genruntimeconfig.cache
+d:\UEA\3 SEMESTRE 2024 - 2025\ESTRUCTURA DE DATOS\Estructura de datos\Calculadora_de_figuras_geométricas\obj\Debug\net8.0\ref\Calculadora_de_figuras_geométricas.dll
